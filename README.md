@@ -39,5 +39,7 @@ Pastikan Anda sudah menginstal **Node.js (LTS v20/v22)** dan aplikasi **Expo Go*
 
 ### 1. Klon Repositori
 ```bash
-git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+git clone https://github.com/ibrahimahmads/MovieBrutalismNative.git
 cd nama-repo-kamu
+npm install
+npx expo start 
